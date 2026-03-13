@@ -1,0 +1,7 @@
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\bin\Debug\Pr_14_1.exe.config
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\bin\Debug\Pr_14_1.exe
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\bin\Debug\Pr_14_1.pdb
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\obj\Debug\Pr_14_1.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\obj\Debug\Pr_14_1.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\obj\Debug\Pr_14_1.exe
+C:\Users\305-7\Desktop\Зуев Пр-21\Pr_14_1\obj\Debug\Pr_14_1.pdb
