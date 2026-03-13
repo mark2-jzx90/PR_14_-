@@ -1,0 +1,10 @@
+C:\Политов_ПР-21\pract14_3_P\bin\Debug\pract14_3_P.exe.config
+C:\Политов_ПР-21\pract14_3_P\bin\Debug\pract14_3_P.exe
+C:\Политов_ПР-21\pract14_3_P\bin\Debug\pract14_3_P.pdb
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.csproj.AssemblyReference.cache
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.Form1.resources
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.Properties.Resources.resources
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.csproj.GenerateResource.cache
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.csproj.CoreCompileInputs.cache
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.exe
+C:\Политов_ПР-21\pract14_3_P\obj\Debug\pract14_3_P.pdb
