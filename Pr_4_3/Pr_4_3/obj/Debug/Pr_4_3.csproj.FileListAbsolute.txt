@@ -1,0 +1,10 @@
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\bin\Debug\Pr_4_3.exe.config
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\bin\Debug\Pr_4_3.exe
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\bin\Debug\Pr_4_3.pdb
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.Form1.resources
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.Properties.Resources.resources
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.exe
+C:\Users\ПК\Desktop\Новая папка\Pr_4_3\Pr_4_3\obj\Debug\Pr_4_3.pdb
